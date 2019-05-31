@@ -1,0 +1,4 @@
+name: EverLog
+version: 0.1.0
+main: com.everneth.everlog.EverLog
+author: tptmike
