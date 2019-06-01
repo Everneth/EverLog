@@ -1,4 +1,4 @@
 package com.everneth.everlog.commands;
 
-public class ELBaseCommand {
+public class LookupCommand {
 }

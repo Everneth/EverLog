@@ -1,4 +1,7 @@
 package com.everneth.everlog.events;
 
-public class ELPlayerDeathEvent {
+import org.bukkit.event.Listener;
+
+public class ELPlayerDeathEvent implements Listener {
+    
 }
